@@ -4,7 +4,7 @@ Make sure you have truffle installed on your computer.
 
 # Install Truffle globally
 npm install -g truffle
-# Install truffle dependencies in root directory (./cryptoroots.xyz)
+# Install truffle dependencies in root directory (./terratrack)
 npm install
 Ensure you create an .env file in root directory. Then to access the Ethereum network/node, create a project on infura and copy-paste the infura project-id url in .env with a variable name REACT_APP_INFURA_MATIC_TESTNET or REACT_APP_INFURA_RINKEBY.
 
